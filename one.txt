@@ -1,2 +1,3 @@
 Hello git team
 this is one.txt file
+fixed the issue in this file
